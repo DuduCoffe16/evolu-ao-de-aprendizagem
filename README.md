@@ -12,7 +12,9 @@ Introdução a TypeScript
 Métodos de strings
 Métodos de arrays
 Logica de Progamação
-
+API
+Banco de dados 
+Docker
 
 - O que eu já sei sobre os assuntos que serão abordados nesse módulo?
   
@@ -24,6 +26,9 @@ Git básico é uma ferramenta usada para controlar as diferentes versões de um 
 TypeScript é uma linguagem de programação relacionada ao JavaScript.
 Métodos de strings são maneiras de manipular texto em programação.
 Que Logica de Progamação é a base fundamental para o desenvolvimento de software. É a capacidade de pensar de forma estruturada e sequencial para resolver problemas através de algoritmos.
+Que API é um conjunto de definições e protocolos que permite a integração de diferentes softwares. Ela define como os componentes de software devem interagir entre si, permitindo a comunicação e o compartilhamento de dados de forma estruturada.
+Um banco de dados é um sistema que permite armazenar, gerenciar e recuperar informações de forma estruturada.
+Que Docker é um sistema em que e possivel rodar um codigo de forma que não interfira no codigo 
 
 - O que quero aprender sobre os assuntos que serão abordados nesse módulo?
   
@@ -35,6 +40,9 @@ Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferenci
 Quero saber o que são métodos de arrays.
 Como criar grandes programas que sustentam grandes impresas 
 Como pensar melhor usando a logica de progamação
+como criar API de forma rapida e organizada 
+Como criar um banco de dados de forma correta
+Como usar o Docker
 
 Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
@@ -46,3 +54,6 @@ Aprendi como usar o Git para controlar as diferentes versões de um projeto e co
 Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
 Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
 Usar mais a logica de progamação no dia dia e na minha futura profissão
+Criar uma API 
+Criar um banco de dados 
+Uso do Docker no Code
